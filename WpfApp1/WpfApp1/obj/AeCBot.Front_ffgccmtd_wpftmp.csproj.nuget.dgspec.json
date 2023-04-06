@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\WpfApp1\\AeCBot.Front.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Dominio\\AeCBot.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Dominio\\AeCBot.Dominio.csproj",
+        "projectName": "AeCBot.Dominio",
+        "projectPath": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Dominio\\AeCBot.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Eric Rhtimo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eric Rhtimo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Infraestrutura\\AeCBot.Infraestrutura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Infraestrutura\\AeCBot.Infraestrutura.csproj",
+        "projectName": "AeCBot.Infraestrutura",
+        "projectPath": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Infraestrutura\\AeCBot.Infraestrutura.csproj",
+        "packagesPath": "C:\\Users\\Eric Rhtimo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Infraestrutura\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eric Rhtimo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Stub.System.Data.SQLite.Core.NetFramework": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\WpfApp1\\AeCBot.Front.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\WpfApp1\\AeCBot.Front.csproj",
+        "projectName": "AeCBot.Front",
+        "projectPath": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\WpfApp1\\AeCBot.Front.csproj",
+        "packagesPath": "C:\\Users\\Eric Rhtimo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\WpfApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eric Rhtimo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Dominio\\AeCBot.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Dominio\\AeCBot.Dominio.csproj"
+              },
+              "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Infraestrutura\\AeCBot.Infraestrutura.csproj": {
+                "projectPath": "C:\\Users\\Eric Rhtimo\\source\\repos\\WpfApp1\\AeCBot.Infraestrutura\\AeCBot.Infraestrutura.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "Stub.System.Data.SQLite.Core.NetFramework": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

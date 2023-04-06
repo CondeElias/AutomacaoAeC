@@ -1,0 +1,12 @@
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\obj\Debug\net6.0\AeCBot.Dominio.csproj.AssemblyReference.cache
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\obj\Debug\net6.0\AeCBot.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\obj\Debug\net6.0\AeCBot.Dominio.AssemblyInfoInputs.cache
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\obj\Debug\net6.0\AeCBot.Dominio.AssemblyInfo.cs
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\obj\Debug\net6.0\AeCBot.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\bin\Debug\net6.0\AeCBot.Dominio.deps.json
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\bin\Debug\net6.0\AeCBot.Dominio.dll
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\bin\Debug\net6.0\AeCBot.Dominio.pdb
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\obj\Debug\net6.0\AeCBot.Dominio.dll
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\obj\Debug\net6.0\refint\AeCBot.Dominio.dll
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\obj\Debug\net6.0\AeCBot.Dominio.pdb
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Dominio\obj\Debug\net6.0\ref\AeCBot.Dominio.dll

@@ -1,0 +1,14 @@
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\obj\Debug\net6.0\AeCBot.Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\obj\Debug\net6.0\AeCBot.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\obj\Debug\net6.0\AeCBot.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\obj\Debug\net6.0\AeCBot.Infraestrutura.AssemblyInfo.cs
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\obj\Debug\net6.0\AeCBot.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\bin\Debug\net6.0\AeCBot.Infraestrutura.deps.json
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\bin\Debug\net6.0\AeCBot.Infraestrutura.runtimeconfig.json
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\bin\Debug\net6.0\AeCBot.Infraestrutura.dll
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\bin\Debug\net6.0\AeCBot.Infraestrutura.pdb
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\obj\Debug\net6.0\AeCBot.Infraestrutura.dll
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\obj\Debug\net6.0\refint\AeCBot.Infraestrutura.dll
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\obj\Debug\net6.0\AeCBot.Infraestrutura.pdb
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\obj\Debug\net6.0\AeCBot.Infraestrutura.genruntimeconfig.cache
+C:\Users\Eric Rhtimo\source\repos\WpfApp1\AeCBot.Infraestrutura\obj\Debug\net6.0\ref\AeCBot.Infraestrutura.dll
